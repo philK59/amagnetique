@@ -1,0 +1,75 @@
+.logo h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.5em;
+}
+
+
+
+
+body {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+main {
+	flex: 1;	
+}
+
+
+
+
+.max-800px {
+	max-width: 800px;
+	}
+
+	.author-image {
+		object-fit: cover;
+		border-radius: 50%;
+		width: 48px;
+		height: 48px;
+	}	
+
+	.title-image {
+		padding-bottom: 2em;
+	}
+	
+	.narrow-background {
+		display: table;
+		padding: 0.1em;
+		}
+
+	.form {
+		width: 100%;
+		max-width: 600px;
+		padding: 0 20px;
+		margin: 0 auto;
+		display: -webkit-box;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+			-ms-flex-direction: column;
+				flex-direction: column;
+	  }
+			  
+	  <style>
+	  @media screen and (max-width: 768px) {
+		  li>a>span:not(.icon) {
+			  visibility: hidden;
+			  position: absolute;
+		  }
+		  nav.tabs li {
+			  -webkit-box-flex: 0;
+			  -ms-flex-positive: 0;
+			  flex-grow: 0;
+			  -ms-flex-negative: 1;
+			  flex-shrink: 1;
+		  }
+		  .tabs .icon {
+			  margin-left: 0.5em;
+		  }
+	  }
+  </style>
+
+ 

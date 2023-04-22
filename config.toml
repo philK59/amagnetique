@@ -1,0 +1,56 @@
+baseURL = "https://www.amagnetique.fr/"
+languageCode = "FR-fr"
+title = "Amagnetique.fr | Equipements IRM amagnétiques | LiLLE"
+
+theme = "sandbox"
+paginate = 2
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
+
+[params]
+    logo = "images/logo.png"
+    description = "Ce site à pour vocation d'aider les ingénieurs biomédicaux dans leur recherche de solutions pour équiper et aménager une salle IRM"
+
+  author = "Phil K"
+  authorImage = "/images/avatar.jpg"
+  
+  googleAnalytics = "UA-123-45"
+
+  copyright = "| Copyright &copy; 2023 [Amagnetique.fr](https://amagnetique.fr) Tous Droits Réservés |"
+
+
+mainSections = ["blog", "tutos"]
+
+
+[[menu.main]]
+  name = "A propos"
+  url = "/a-propos"
+
+[[menu.main]]
+  name = "Blog"
+  url = "/blog" 
+
+[[menu.main]]
+    name = "Catégories"
+    url = "/categories"  
+  
+ [[menu.main]]
+    name = "Contact"
+    url = "/contact"    
+
+
+[[menu.social]]
+name = "Linkedin"
+url = "https://www.linkedin.com/in/philippe-cabotse-56744217b/"
+pre = "<i class='fab fa-linkedin'></i>"  
+
+[[menu.footer]]
+name = "A propos"
+url = "/a-propos"
+
+[[menu.footer]]
+name = "Protection des données"
+url = "/protection-des-donnees"
