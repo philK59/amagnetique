@@ -14,8 +14,8 @@ draft: false
 <section class="hero is-large is-dark main-image">
     <div class="hero-body">
         <div class="container has-text-centered">
-            <h1 style="color:black" class="title is-3">Amagnetique.fr</h1>
-            <h2 style="color:black" class="title is-5">Solutions pour salle IRM</h2>
+            <h1 style="color:black" class="title is-3"><Amagnetique.fr></h1>
+            <h2 style="color:black" class="title is-5">Solutions compatibles IRM</h2>
         </div>
     </div>
 </section>
