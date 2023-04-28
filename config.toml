@@ -1,6 +1,6 @@
 baseURL = "https://www.amagnetique.fr/"
 languageCode = "FR-fr"
-title = "Amagnetique.fr | Equipements IRM amagnétiques | LiLLE | FRANCE |"
+title = "<Amagnetique.fr> | Equipements IRM amagnétiques | LiLLE | FRANCE |"
 
 theme = "sandbox"
 paginate = 2
