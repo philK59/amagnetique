@@ -17,7 +17,8 @@ paginate = 2
   author = "Phil K"
   authorImage = "/images/avatar.jpg"
   
-  googleAnalytics = "G-2VG90KEGRQ"
+  
+  googleAnalitycsID = "373646815" 
 
   copyright = "| Copyright &copy; 2023 [Amagnetique.fr](https://amagnetique.fr) Tous Droits Réservés |"
 
