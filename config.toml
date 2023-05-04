@@ -17,8 +17,8 @@ paginate = 2
   author = "Phil K"
   authorImage = "/images/avatar.jpg"
   
-  
-googleAnalytics = 'G-MEASUREMENT_373866629'
+googleAnalytics: UA-PROPERTY_373866629  
+
 
 mainSections = ["blog", "tutos"]
 
