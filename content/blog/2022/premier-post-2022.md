@@ -4,7 +4,7 @@ date: 2023-03-01T17:46:27+01:00
 description: "Ensemble de portes-sérum amagnétiques"
 images:
   - /images/blog/2023/porte-serum-amagnetique.jpg  
-categories : 
+produits : 
 - Portes-sérum
 - Equipement
 draft: false
@@ -18,7 +18,7 @@ draft: false
 
 
 <strong>Caractéristiques :</strong>
-- Strcture tubulaire en résine de synthèse
+- Structure tubulaire en résine de synthèse
   
 <strong>Accessoires optionnels:</strong>
 - Support pour pompe
